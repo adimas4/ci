@@ -3,4 +3,4 @@ web ci sederhana
 Belajar_crud.php (Controller)
 mod.php (Model)
 
-update, insert, deletecrud (views)
+update, insert, view, deletecrud (views)
